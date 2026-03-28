@@ -1,11 +1,11 @@
-# Linear Algebra
+# linear_algebra
 
-Linear algebra: determinant, inverse, eigenvalues, SVD (2x2).
+Linear algebra — vectors, dot product, cross product, norms
 
 ## Usage
 
 ```bash
-python3 linear_algebra.py
+python3 linear_algebra.py --help
 ```
 
 ## License
